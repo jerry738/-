@@ -16,9 +16,9 @@ jobs:
   
     steps:
       - name: Clone repository
-        uses: actions/checkout@v3
+        uses: ygb2841978808@gmail.com
 
-      - name: Auto green
+      - name: jerry738
         run: |
           git config --local user.email "justjavac@gmail.com"
           git config --local user.name "迷渡"
